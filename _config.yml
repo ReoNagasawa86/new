@@ -9,5 +9,5 @@ permalink_defaults:
 
 deploy:
   type: git
-  repository: {}
+  repository: {https://github.com/ReoNagasawa86/new.git}
   branch: gh-page
